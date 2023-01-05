@@ -6,6 +6,6 @@ data: new SlashCommandBuilder()
     .setDescription('Replies message with PINGO'),
 
     async execute(interaction){
-    await interaction.replay('Pingo');
+    await interaction.reply('Pingo');
 }
 };

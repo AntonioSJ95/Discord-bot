@@ -12,7 +12,15 @@
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3"
   },
+
+  "engines": {
+    "node": "18.12.1",
+    "npm": "8.19.2"
+  },
+
   "devDependencies": {
     "eslint": "^8.31.0"
   }
+
+  
 }
